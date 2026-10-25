@@ -1,0 +1,37 @@
+{
+    "name": "اسکن‌یار",
+    "short_name": "اسکن‌یار",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#4A3BD0",
+    "theme_color": "#5B4BDB",
+    "description": "اسکن بارکد و صدور فاکتور",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ],
+    "lang": "fa",
+    "dir": "rtl"
+}
